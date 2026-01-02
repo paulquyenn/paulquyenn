@@ -11,15 +11,11 @@
 ### 🛠 &nbsp;Tech Stack
 
 - 🌐 &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=3178C6)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
   ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=239120)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwind-css&logoColor=38B2AC)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
 - 🌐 &nbsp;
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel&logoColor=FF2D20)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
